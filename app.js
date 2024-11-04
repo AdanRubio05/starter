@@ -34,3 +34,6 @@ let details = data.map(function(item){
 }) ;
 
 info.innerHTML = details.join('\n') ;
+
+console.log('Ages calculated in the year 2024') ;
+console.log('Calculated and Created by Adan Rubio') ;
