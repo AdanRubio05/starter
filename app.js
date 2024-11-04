@@ -27,7 +27,7 @@ let data = [
 
 const info = document.querySelector('#info')
 
-let details = data.map(function(){
+let details = data.map(function(item){
     return (
         '<div>' + item.name + '</div>'
     )
