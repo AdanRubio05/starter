@@ -1,4 +1,4 @@
-let date = [
+let data = [
     {
         name: 'Frankenstein',
         age: '206'  
